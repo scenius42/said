@@ -4,6 +4,8 @@ Professionals who have been building systems, especially in healthcare and aeros
 
 I surely do.
 
+Not because the concerns aren't real.
+
 Developing products and services with modern technology, identifying, evaluating and assessing risks, managing them and delivering impactful solutions are part of the job. No big deal.
 
 Yes, mistakes were made. We all learnt from them. To make the next system even better. On a cycle of continual improvement.
