@@ -14,7 +14,9 @@ Such management systems have been confined to certain industries and within that
 Now is the right time to define a management system for intelligence.
 
 Process adds friction. It also provides control and accountability.
-Process is boring. Unglamorous. Effective nonetheless. 
+
+Process is boring. Unglamorous. Effective nonetheless.
+
 That is the cure for the hyperbole 
 
 As an organization, do we want drama and theatre or a systems approach to harness the benefits of a powerful technology ?
